@@ -19,7 +19,7 @@ int main(){
 			printf("Your Result: %d",num1*num2);
 			break;
 		case '/':
-			printf("Your Result: %d982 + ",num1/num2);
+			printf("Your Result: %d",num1/num2);
 			break;
 		default:
 			printf("ERROR!!!");
